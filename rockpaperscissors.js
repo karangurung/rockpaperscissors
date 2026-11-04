@@ -1,6 +1,6 @@
 console.log("Hello, World!")
 
-// creat a function called getComputerChoice 
+// create a function called getComputerChoice 
 // it will Return a random "Rock", "Paper" or "Scissor"
 
 function getComputerChoice() {
@@ -15,5 +15,10 @@ function getComputerChoice() {
 }
 console.log (getComputerChoice());
 
+// Create a new function named getHumanChoice.
+// Write the code so that getHumanChoice will return one of the valid choices depending on what the user inputs.
 
 
+function getHumanChoice () {
+    
+}
